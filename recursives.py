@@ -19,7 +19,7 @@ def multiNumber(array):
 
 numbers = [1,2,3,4,5]
 result = addRecursive(numbers)
-print("Resultado",result)
+print("Resultado 1: ",result)
 
 numbers3 = [1,2,3,4,3,5]
 result3 = multiNumber(numbers3)
