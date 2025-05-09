@@ -23,7 +23,7 @@ print("Resultado",result)
 
 numbers3 = [1,2,3,4,3,5]
 result3 = multiNumber(numbers3)
-print("Resultado",result3)
+print("Resultado 3 :",result3)
 
 numbers2 = [1,2,3,4,5,4,7,1,9,2,3]
 result2 = countTotalNumber(numbers2)
